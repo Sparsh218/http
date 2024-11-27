@@ -1,0 +1,10 @@
+.container.fluid {
+    align-content: center;
+    justify-content: center;
+    display: flex;
+    margin: 20px;
+}
+
+label {
+    margin-right: 5px;
+}
